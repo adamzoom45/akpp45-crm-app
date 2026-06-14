@@ -1,0 +1,2 @@
+-keepattributes *Annotation*
+-keep class com.akpp45.crm.** { *; }
